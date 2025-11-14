@@ -23,5 +23,16 @@ h1{
     color: #fff;
     margin-top: 30px;
     letter-spacing: 2px;
+    transition: transform 0.5s ease-in-out
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+nav a h1:hover{
+    transform: scale(1.2);
+    color: #e70e0e;
 }
 
