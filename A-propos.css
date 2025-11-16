@@ -59,3 +59,29 @@ main a h2:hover{
     transform: scale(1.2);
     color: #e70e0e;
 }
+
+.a-propos {
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 25px;
+    line-height: 1.8;
+    font-family: "Luckiest Guy", cursive;
+    color: white;
+    font-size: 22px;
+}
+
+.a-propos p {
+    margin-bottom: 18px;
+    font-size: 22px;
+}
+
+.a-propos ul.competences {
+    list-style-type: disc;      
+    margin-left: 30px;          
+    margin-bottom: 18px;
+}
+
+.a-propos ul.competences li {
+    margin-bottom: 10px;        
+    font-size: 22px;
+}
