@@ -58,4 +58,29 @@ main{
 main a h2:hover{
     transform: scale(1.2);
     color: #e70e0e;
+
+}
+
+film {
+    display: grid;
+    grid-template-columns: repeat(5, max-content); 
+    grid-auto-rows: auto;                           
+    gap: 25px 55px;                                   
+    justify-content: center;                        
+    justify-items: center;                          
+    align-items: center;
+    margin-top: 60px;
+
+}
+.image-film img {
+    height: auto;
+    display: block;
+    border-radius: 8px; 
+    transition: transform 0.5s ease-in-out;
+    
+    
+}
+
+.image-film img:hover{
+    transform: scale(1.2);
 }
