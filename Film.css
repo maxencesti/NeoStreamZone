@@ -12,7 +12,8 @@ body{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 1080px;
+    min-height: 100vh;
+    background-attachment: fixed;
 }
 
 
@@ -83,4 +84,39 @@ film {
 
 .image-film img:hover{
     transform: scale(1.2);
+}
+
+@media (max-width: 768px) {
+    
+    h1 {
+        font-size: 35px;
+        margin-top: 20px;
+    }
+    
+    main {
+        position: relative; 
+        flex-direction: column; 
+        align-items: center;    
+        gap: 15px;              
+        margin-bottom: 30px;    
+        top: auto; left: auto;  
+    }
+
+    main a h2 {
+        font-size: 25px;       
+        justify-content: center;
+        margin-top: 0;
+    }
+
+    film {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+        margin-top: 0;
+        padding: 0 15px;
+    }
+    
+    .image-film img { 
+        width: 100%; 
+    }
 }
