@@ -23,4 +23,4 @@ Le site est composé de 4 pages principales :
 ## 🌍 Lien vers le site (Hébergement)
 Le projet est hébergé en ligne via **GitHub Pages**. Vous pouvez le consulter en cliquant sur le lien ci-dessous :
 
-👉 **[Accéder à NeoStreamZone](https://maxencesti.github.io/neostreamzone/)**
+👉 **[Accéder à NeoStreamZone](https://maxencesti.github.io/NeoStreamZone/)**
