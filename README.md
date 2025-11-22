@@ -30,7 +30,7 @@ Le projet est hébergé en ligne via **GitHub Pages**. Vous pouvez le consulter 
 Voici les documents de suivi réalisés pour l'organisation du projet.
 
 ### 1. Liste des tâches
-![Carte Mentale](image/cartementalesae14.PNG)
+![Carte Mentale](Image/cartementalesae14.PNG)
 
 ### 2. Planification
 ![Diagramme de Gantt](Image/planningdiagrammedeganttsae14.PNG)
