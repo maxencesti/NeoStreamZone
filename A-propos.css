@@ -7,6 +7,7 @@
     font-family: "Luckiest Guy", cursive;
     font-weight: 400;
 }
+
 body{
     background-image: url(Image/fond.png);
     background-size: cover;
@@ -25,6 +26,7 @@ h1{
     letter-spacing: 2px;
     transition: transform 0.5s ease-in-out
 }
+
 nav{
     display: flex;
     justify-content: space-around;
@@ -49,7 +51,7 @@ h2{
 main{
     position: absolute; 
     top: 0;             
-    left: 0;            
+    margin-left: 40px;             
     display: flex;      
     flex-wrap: wrap;    
     gap: 40px;            
@@ -90,24 +92,27 @@ main a h2:hover{
     h1 {
         font-size: 35px;
         margin-top: 20px;
+        justify-content: center;
     }
 
     main {
         position: relative;
         top: auto;
-        left: auto;
+        margin-left: 0;
+        display: flex;
         flex-direction: column;
         align-items: center;
-        gap: 15px;
-        margin-bottom: 30px;
+        gap: 20px;
+        margin-bottom: 40px;
+        margin-top: 20px;
     }
 
     main a h2 {
-        font-size: 25px;
-        justify-content: center;
+        font-size: 28px;
         margin: 0;
+        justify-content: center;
     }
-
+    
     .a-propos {
         width: 90%;
         padding: 15px;
