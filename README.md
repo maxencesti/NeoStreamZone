@@ -24,3 +24,16 @@ Le site est composé de 4 pages principales :
 Le projet est hébergé en ligne via **GitHub Pages**. Vous pouvez le consulter en cliquant sur le lien ci-dessous :
 
 👉 **[Accéder à NeoStreamZone](https://maxencesti.github.io/NeoStreamZone/)**
+
+## 📊 Gestion de Projet (Livrables R1.15)
+
+Voici les documents de suivi réalisés pour l'organisation du projet.
+
+### 1. Liste des tâches
+![Carte Mentale](image/cartementalesae14.PNG)
+
+### 2. Planification
+![Diagramme de Gantt](Image/planningdiagrammedeganttsae14.PNG)
+
+### 3. Suivi des tâches
+![Tableau Trello](Image/trellosae14.PNG)
