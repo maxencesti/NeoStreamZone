@@ -149,74 +149,81 @@ textarea{
 }
 
 @media (max-width: 768px) {
-    
-    h3 { 
+    h3 {
         font-size: 35px;
-        margin-top: 20px; 
-        justify-content: center; 
+        margin-top: 20px;
+        justify-content: center;
     }
 
     main {
-        position: relative; 
+        position: relative;
         top: auto;
         margin-left: 0;
-        display: flex; 
-        flex-direction: column; 
+        display: flex;
+        flex-direction: column;
         align-items: center;
-        gap: 15px; 
-        margin-bottom: 30px; 
-        margin-top: 10px;
+        gap: 20px;
+        margin-bottom: 40px;
+        margin-top: 20px;
     }
 
-    main a h2 { 
-        font-size: 25px; 
-        margin: 0; 
-        justify-content: center; 
+    main a h2 {
+        font-size: 28px;
+        margin: 0;
+        justify-content: center;
     }
 
     form {
-        position: relative; 
-        top: auto; 
-        left: auto; 
+        position: relative;
+        top: auto;
+        left: auto;
         transform: none;
-        width: 90%; 
-        margin: 0 auto 50px auto; 
+        width: 90%;
+        margin: 0 auto 50px auto;
         padding: 20px;
     }
 
-    form .corps-formulaire { 
-        flex-direction: column; 
+    form .corps-formulaire {
+        flex-direction: column;
     }
 
-    .icon { 
-        flex-direction: row; 
-        width: 100%; 
-        margin-top: 10px; 
+    .icon {
+        flex-direction: row;
+        width: 100%;
+        margin-top: 10px;
     }
-    .groupe { 
+
+    .groupe {
         align-items: flex-start;
-        width: 100%; 
+        width: 100%;
     }
 
-    .gauche, .droite, input, textarea, button { 
-        width: 100%; 
-        box-sizing: border-box; 
+    .gauche, .droite, input, textarea, button {
+        width: 100%;
+        box-sizing: border-box;
         margin: 0;
-     }
-    .droite { 
-        margin-top: 15px; 
-    }
-    .icon img { 
-        display: none; 
     }
 
-    form .pied-formulaire { 
-        margin-top: 25px; 
-        transform: none; 
-        text-align: center; 
+    .droite {
+        margin-top: 15px;
     }
-    button { 
-        padding: 12px; 
-        font-size: 16px; 
+
+    textarea {
+        margin-left: 0;
+    }
+
+    .icon img {
+        display: none;
+    }
+
+    form .pied-formulaire {
+        margin-top: 25px;
+        transform: none;
+        text-align: center;
+    }
+
+    button {
+        padding: 12px;
+        font-size: 16px;
     }
 }
