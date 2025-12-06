@@ -16,7 +16,7 @@ Le site s'articule autour de 4 pages principales :
 * **Contact (`Contact.html`)** : Un formulaire permettant aux utilisateurs de me contacter.
 * **À propos (`A-propos.html`)** : Une page détaillant ma démarche et les compétences acquises lors de ce développement.
 
-## 🛠 Technologies utilisées
+## Technologies utilisées
 
 * **HTML** : Structure sémantique des pages.
 * **CSS** : Mise en forme et design.
