@@ -65,11 +65,13 @@ main a h2:hover{
 .a-propos {
     max-width: 1200px;
     margin: 30px auto;
-    padding: 25px;
     line-height: 1.8;
     font-family: "Luckiest Guy", cursive;
     color: white;
     font-size: 22px;
+    background-color: rgba(0, 0, 0, 0.6); /* Fond noir très opaque (85%) pour valider le test */
+    padding: 40px; /* Espace interne pour que le texte ne colle pas aux bords */
+    border-radius: 20px; /* Bords arrondis */
 }
 
 .a-propos p {

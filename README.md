@@ -1,39 +1,29 @@
-# 🎬 Projet NeoStreamZone
+# Projet NeoStreamZone 
 
-Ce projet a été réalisé par **Maxence Yazdani** (étudiant en 1ère année de BUT R&T) dans le cadre de la **SAÉ 14**.
+Ce dépôt contient le code source de mon site web réalisé dans le cadre de la **SAÉ 14**.
+Projet effectué par **Maxence Yazdani**, étudiant en 1ère année de BUT R&T.
 
-## 📝 Présentation du projet
-L'objectif était de concevoir et développer un site Web multipages complet
-J'ai choisi le thème du **cinéma** pour créer une interface qui ressemble à une plateforme de streaming.
+## Présentation
 
-Le site est composé de 4 pages principales :
-* **Accueil (`index.html`)** : La page de bienvenue avec le menu principal.
-* **Nos Films (`Film.html`)** : Une galerie d'affiches de films. J'ai utilisé une grille (**Grid**) pour les aligner. Sur ordinateur, il y a 5 films par ligne, et sur mobile, cela passe automatiquement à 2 films par ligne pour rester lisible.
-* **Contact (`Contact.html`)** : Un formulaire de contact pour les utilisateurs. J'ai travaillé le responsive pour que le formulaire prenne toute la largeur sur un téléphone et soit facile à remplir.
-* **À propos (`A-propos.html`)** : Une page qui explique ma démarche et liste les compétences que j'ai acquises durant ce projet.
+L'objectif de ce projet était de concevoir et développer un site Web multipages complet.
+J'ai choisi le thème du **cinéma** car ces un theme qui ma toujour passioné.
 
-## 💻 Technologies utilisées
-* **HTML** : Pour la structure de toutes les pages et le contenu.
-* **CSS** : Pour le design et la mise en page.
-    * Utilisation de **Flexbox** pour les menus de navigation.
-    * Utilisation de **CSS Grid** pour la page Films.
-    * Utilisation des **Media Queries** (`@media`) pour rendre le site **Responsive** (adapté aux smartphones).
-* **Git & GitHub** : Pour la gestion des versions et la sauvegarde du projet.
+### Structure du site
+Le site s'articule autour de 4 pages principales :
 
-## 🌍 Lien vers le site (Hébergement)
-Le projet est hébergé en ligne via **GitHub Pages**. Vous pouvez le consulter en cliquant sur le lien ci-dessous :
+* **Accueil (`index.html`)** : Page de bienvenue contenant le menu de navigation principal.
+* **Nos Films (`Film.html`)** : Une galerie présentant les affiches de films.
+* **Contact (`Contact.html`)** : Un formulaire permettant aux utilisateurs de me contacter.
+* **À propos (`A-propos.html`)** : Une page détaillant ma démarche et les compétences acquises lors de ce développement.
 
-👉 **[Accéder à NeoStreamZone](https://maxencesti.github.io/NeoStreamZone/)**
+## 🛠 Technologies utilisées
 
-## 📊 Gestion de Projet (Livrables R1.15)
+* **HTML** : Structure sémantique des pages.
+* **CSS** : Mise en forme et design.
+* **Git & GitHub** : Gestion de versions et hébergement du code.
 
-Voici les documents de suivi réalisés pour l'organisation du projet.
+## Accès au site
 
-### 1. Liste des tâches
-![Carte Mentale](Image/cartementalesae14.PNG)
+Le projet est hébergé via GitHub Pages. Vous pouvez le consulté en cliquant ici :
 
-### 2. Planification
-![Diagramme de Gantt](Image/planningdiagrammedeganttsae14.PNG)
-
-### 3. Suivi des tâches
-![Tableau Trello](Image/trellosae14.PNG)
+ **(https://maxencesti.github.io/NeoStreamZone/)**
